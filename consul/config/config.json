@@ -1,0 +1,11 @@
+{
+    "bootstrap": true,
+    "server": true,
+    "datacenter": "kengine",
+    "encrypt": "IwYj3PtmgRKsQTlC67ud6A==",
+    "log_level": "INFO",
+    "rejoin_after_leave": true,
+    
+    "ui":true
+	
+}
